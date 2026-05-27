@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm unique-Elven 👋</h1>
+<h1 align="center">Hi there, I'm unique-Elven 👋 / 你好！</h1>
 <h3 align="center">Cybersecurity Enthusiast | Reverse Engineering | Full-Stack Developer</h3>
+<h4 align="center">网络安全爱好者 | 逆向工程 | 全栈开发</h4>
 
 <!-- 动态打字效果的欢迎语 -->
 <p align="center">
@@ -8,17 +9,22 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me | 关于我
 
-- 🎓 Computer Science undergraduate, graduating in **June 2026**.
-- 🛡️ Deeply passionate about **Network Security**, **Reverse Engineering**, and **Malware Analysis**.
-- 💻 Building full-stack applications and AI-driven security tools.
-- ⚙️ Homelab enthusiast—love tinkering with **Proxmox VE**, network configurations, and hardware DIY.
-- 🎯 Actively participating in CTFs and researching intelligent malware detection systems.
+- 🎓 **Education / 教育背景**：Computer Science undergraduate, graduating in **June 2026**.
+  (计算机科学与技术专业本科在读，预计 **2026年6月** 毕业。)
+- 🛡️ **Cybersecurity / 安全领域**：Deeply passionate about **Network Security**, **Reverse Engineering**, and **Malware Analysis**.
+  (专注于网络安全、逆向工程 (IDA Pro / x64dbg) 以及恶意代码分析。)
+- 💻 **Development / 软件开发**：Building full-stack applications and AI-driven security tools.
+  (致力于使用 Go / Vue3 / FastAPI 开发全栈应用与 AI 驱动的安全工具。)
+- ⚙️ **Homelab & DIY / 硬件折腾**：Homelab tinkerer—love tinkering with **Proxmox VE**, networking configurations, and hardware DIY.
+  (热衷于 HomeLab 折腾：Proxmox VE (PVE) 虚拟化、网络架构搭建与底层硬件 DIY。)
+- 🎯 **Activities / 活跃领域**：Actively participating in **CTFs** and researching intelligent malware detection systems.
+  (积极参与各类 CTF 网络安全竞赛，并对基于人工智能的恶意软件检测系统进行探索。)
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools | 技术栈与工具
 
-<!-- 核心技术栈图标 (稳定且美观) -->
+<!-- 核心技术栈图标 -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,go,vue,fastapi,linux,git" alt="Tech Stack Icons" />
@@ -32,11 +38,11 @@
   <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats | 数据统计
 
 <p align="center">
-  <!-- GitHub 统计卡片 (使用了与安全和黑客风格契合的暗色主题) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=unique-Elven&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="unique-Elven's GitHub Stats" />
+  <!-- 替换为更稳定的 Streak Stats 卡片，依然保持极客暗黑风格 -->
+  <img src="https://streak-stats.demolab.com?user=unique-Elven&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9&dates=58A6FF&hide_border=true" alt="unique-Elven's GitHub Streak" />
 </p>
 
 <p align="center">
