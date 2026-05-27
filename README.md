@@ -47,5 +47,5 @@
 
 <p align="center">
   <!-- 访客统计 -->
-  <img src="https://profile-counter.glitch.me/unique-Elven/count.svg" alt="Visitor Count" />
+  <img src="[https://profile-counter.glitch.me/unique-Elven/count.svg](https://komarev.com/ghpvc/?username=unique-Elven&style=for-the-badge&color=58A6FF&label=Profile+Views+%7C+%E8%AE%BF%E5%AE%A2%E6%95%B0)" alt="Visitor Count" />
 </p>
