@@ -4,7 +4,7 @@
 
 <!-- 动态打字效果的欢迎语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CS+Student+(Class+of+2026);Network+Security+%26+CTF;Malware+Analysis+%26+Reverse+Engineering;Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Security+Engineer;Network+Security+%26+CTF;Malware+Analysis+%26+Reverse+Engineering;Full-Stack+Development" alt="Typing SVG" />
 </p>
 
 ---
