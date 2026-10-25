@@ -11,8 +11,6 @@
 
 ### 👨‍💻 About Me | 关于我
 
-- 🎓 **Education / 教育背景**：Computer Science undergraduate, graduating in **June 2026**.
-  (计算机科学与技术专业本科在读，预计 **2026年6月** 毕业。)
 - 🛡️ **Cybersecurity / 安全领域**：Deeply passionate about **Network Security**, **Reverse Engineering**, and **Malware Analysis**.
   (专注于网络安全、逆向工程 (IDA Pro / x64dbg) 以及恶意代码分析。)
 - 💻 **Development / 软件开发**：Building full-stack applications and AI-driven security tools.
